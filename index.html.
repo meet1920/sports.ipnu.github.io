@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IPNU Sports Committee</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      line-height: 1.6;
+    }
+    header {
+      background: #002147;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #444;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #002147;
+      margin-bottom: 15px;
+    }
+    footer {
+      background: #002147;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>IPNU Sports Committee</h1>
+    <p>Institute of Pharmacy, Nirma University</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#team">Team</a>
+    <a href="#events">Events</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      The IPNU Sports Committee is dedicated to promoting fitness, teamwork, and sportsmanship
+      among students. We organize tournaments, inter-institute competitions, and training
+      sessions to encourage participation in both indoor and outdoor sports.
+    </p>
+  </section>
+
+  <section id="team">
+    <h2>Our Team</h2>
+    <ul>
+      <li><b>Meet Lodaliya</b> – President</li>
+      <li>[Name] – Vice President</li>
+      <li>[Name] – Secretary</li>
+      <li>[Name] – Treasurer</li>
+      <li>[Name] – Event Coordinators</li>
+    </ul>
+  </section>
+
+  <section id="events">
+    <h2>Upcoming Events</h2>
+    <p>Stay tuned for updates on upcoming tournaments and activities!</p>
+    <ul>
+      <li>🏐 Volleyball Tournament – December 2025</li>
+      <li>🏸 Badminton Tournament – January 2026</li>
+      <li>⚽ Football League – February 2026</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:ipnusports@gmail.com">ipnusports@gmail.com</a></p>
+    <p>Follow us on Instagram: <a href="https://instagram.com/" target="_blank">@ipnusports</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 IPNU Sports Committee | Nirma University</p>
+  </footer>
+
+</body>
+</html>
